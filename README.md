@@ -1,12 +1,13 @@
-# About Me
+# Sobre mí
 ### Junior Software Engineer | Data Analyst | DevOps
 
 
 - Software Developer / Data Analyst con experiencia en **automatización de procesos**, **integración de sistemas** y **administración de bases de datos**.
 - Actualmente enfocado en mejorar mis habilidades en **análisis de datos**, **backend** y **DevOps**.
 - Experiencia desarrollando integraciones entre sistemas (Navision, SQL Server) y automatizando flujos de trabajo mediante Python y Visual Basic.
-- Mi pasión es resolver problemas complejos a través del código y optimizar procesos que faciliten la operativa de los equipos.
+- Mi pasión es colaborar en la resolución e implementación de sistemas complejos a través del código y optimizar procesos que faciliten la operativa de los equipos.
 - Formación complementaria en Computación Cuántica y Ciberseguridad (Universidad de Nebrija).
+- Desarrollo de aplicaciones multiplataforma (Universidad San Pablo CEU).
 - Conéctate conmigo en [linkedin.com/in/daniel-bernad-peñuelas](https://linkedin.com/in/daniel-bernad-peñuelas).
 
 ---
@@ -38,12 +39,12 @@
 
 ### Experiencia Profesional
 
-**IT Junior and DevOps** — MET SPAIN *(Feb 2026 – Jul 2026)*
+**IT Junior y DevOps** — MET SPAIN *(Feb 2026 – Jul 2026)*
 - Integración automatizada entre Navision y la base de datos financiera vía HTTPS.
 - Macros en Visual Basic para conectar Excel con la base de datos financiera.
 - Administración de bases de datos SQL Server: estructuración, mantenimiento y migración.
-- Dashboards en Power BI y Google Analytics para KPIs de una app móvil.
-- Automatización de procesos con Python y web scraping con Selenium.
+- Automatización de procesos con Python y PLSQL
+- Resolución de tickets
 
 **Software Developer / Data Analyst** — MVGM Spain *(Ago 2024 – Sept 2025)*
 - Desarrollo de programas .exe para la generación de comandos SQL a partir de una memoria JSON.
