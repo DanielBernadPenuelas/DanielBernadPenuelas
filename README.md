@@ -1,9 +1,6 @@
 # About Me
 ### Junior Software Engineer | Data Analyst | DevOps
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=DanielBernadPenuelas&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
 
 - Software Developer / Data Analyst con experiencia en **automatización de procesos**, **integración de sistemas** y **administración de bases de datos**.
 - Actualmente enfocado en mejorar mis habilidades en **análisis de datos**, **backend** y **DevOps**.
