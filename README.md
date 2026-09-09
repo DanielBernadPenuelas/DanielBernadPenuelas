@@ -8,9 +8,10 @@
 - Mi pasión es colaborar en la resolución e implementación de sistemas complejos a través del código y optimizar procesos que faciliten la operativa de los equipos.
 - Formación complementaria en Computación Cuántica y Ciberseguridad (Universidad de Nebrija).
 - Desarrollo de aplicaciones multiplataforma (Universidad San Pablo CEU).
-- Conéctate conmigo en [linkedin.com/in/daniel-bernad-peñuelas](https://linkedin.com/in/daniel-bernad-peñuelas).
+- Sigueme en:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bernad-peñuelas)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
 ### Tech Stack
 
 **Languages & Scripting**
