@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bernad-peñuelas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
+
+![Estadísticas de LeetCode](https://leetcard.jacoblin.cool/Daniel_softwer_lover?theme=dark&font=Nunito&hide_border=true)
 ### Tech Stack
 
 **Languages & Scripting**
