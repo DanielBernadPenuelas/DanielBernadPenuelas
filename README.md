@@ -59,7 +59,7 @@
 ### Educación
 - **Computación Cuántica** — Universidad de Nebrija (2025)
 - **Introducción a la Ciberseguridad** — Universidad de Nebrija (2024-2025)
-- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — Universidad San Pablo CEU (2023-2024)
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — Universidad San Pablo CEU (2021-2024)
 
 ---
 
