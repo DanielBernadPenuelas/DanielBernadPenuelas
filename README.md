@@ -140,3 +140,5 @@
 - bernadd2003@gmail.com
 - +34 673 223 904
 - [LinkedIn](https://linkedin.com/in/daniel-bernad-peñuelas)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
