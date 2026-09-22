@@ -66,8 +66,6 @@
 ---
 
 ### Contact
-- bernadd2003@gmail.com
-- +34 673 223 904
 - [LinkedIn](https://linkedin.com/in/daniel-bernad-peñuelas)
 
 ---
@@ -139,8 +137,6 @@
 ---
 
 ### Contacto
-- bernadd2003@gmail.com
-- +34 673 223 904
 - [LinkedIn](https://linkedin.com/in/daniel-bernad-peñuelas)
 
 
