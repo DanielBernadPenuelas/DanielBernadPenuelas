@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bernad-peñuelas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Daniel1936y)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Daniel_softwer_lover?theme=dark&font=Nunito&hide_border=true)
 
@@ -19,7 +20,7 @@
 
 **Languages & Scripting**
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -39,6 +40,8 @@
 **Automation & Web Scraping**
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=white)
+
 
 ---
 
@@ -86,13 +89,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bernad-peñuelas)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Daniel1936y)
+
 
 ![Estadísticas de LeetCode](https://leetcard.jacoblin.cool/Daniel_softwer_lover?theme=dark&font=Nunito&hide_border=true)
 ### Tech Stack
 
 **Languages & Scripting**
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=coffeescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
@@ -112,7 +117,7 @@
 **Automatización & Web Scraping**
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
+![Pandas](https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=white)
 ---
 
 ### Experiencia Profesional
