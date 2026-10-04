@@ -42,7 +42,7 @@
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=white)
-
+![Polars](https://img.shields.io/badge/-Polars-blue?style=flat&logo=Polars&logoColor=white)
 
 ---
 
@@ -120,6 +120,8 @@
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-red?style=flat&logo=Pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/-Polars-blue?style=flat&logo=Polars&logoColor=white)
+
 ---
 
 ### Experiencia Profesional
