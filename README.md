@@ -64,8 +64,10 @@
 ---
 
 ### Education
+--**Web Development aplication and DataBases** — Centro Digital San Blash (2026)
 - **Quantum Computing** — Universidad de Nebrija (2025)
 - **Introduction to Cybersecurity** — Universidad de Nebrija (2024-2025)
+- **Crash course Python** — Google (2024-2024)
 - **Multi-platform Application Development (DAM)** — Universidad San Pablo CEU (2021-2024)
 
 ---
@@ -141,8 +143,10 @@
 ---
 
 ### Educación
+--**Programación web y bases de datos** — Centro Digital San Blash (2026)
 - **Computación Cuántica** — Universidad de Nebrija (2025)
 - **Introducción a la Ciberseguridad** — Universidad de Nebrija (2024-2025)
+- **Curso rápido de Python** — Google (2024-2024)
 - **Desarrollo de Aplicaciones Multiplataforma (DAM)** — Universidad San Pablo CEU (2021-2024)
 
 ---
