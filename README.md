@@ -4,10 +4,10 @@
 
 - Software Developer / Data Analyst with experience in **process automation**, **systems integration**, and **database administration**.
 - Currently focused on enhancing my skills in **data analysis**, **backend**, and **DevOps**.
-- Experience developing integrations between systems (Navision, SQL Server) and automating workflows using Python and Visual Basic.
+- Experience developing integrations between systems (Navision, SQL Server) and automating workflows using **Python** and **Visual Basic**.
 - Passionate about collaborating to solve and implement complex systems through code, as well as optimizing processes to streamline team operations.
 - Complementary training in Quantum Computing and Cybersecurity (Universidad de Nebrija).
-- Multi-platform Application Development (Universidad San Pablo CEU).
+- **Multi-platform Application Development** (Universidad San Pablo CEU).
 - Follow me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-bernad-peñuelas)
@@ -143,7 +143,7 @@
 ---
 
 ### Educación
-- **Programación web y bases de datos** — Centro Digital San Blash (2026)
+- **Programación web y bases de datos** — Centro Digital San Blash (2026-2027)
 - **Computación Cuántica** — Universidad de Nebrija (2025)
 - **Introducción a la Ciberseguridad** — Universidad de Nebrija (2024-2025)
 - **Curso rápido de Python** — Google (2024-2024)
