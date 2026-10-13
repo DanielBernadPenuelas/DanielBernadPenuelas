@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Daniel1936y)
 
-### Leetcode Stats (nline platform designed to help software developers practice programming)
+### Leetcode Stats (online platform designed to help software developers practice programming)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Daniel_softwer_lover?theme=dark&font=Nunito&hide_border=true)
 
@@ -95,6 +95,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Daniel_softwer_lover/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Daniel1936y)
 
+### EStadísticas de Leetcode (Plataforma online para practicar programación)
 
 ![Estadísticas de LeetCode](https://leetcard.jacoblin.cool/Daniel_softwer_lover?theme=dark&font=Nunito&hide_border=true)
 ### Tech Stack
