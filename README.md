@@ -1,5 +1,6 @@
 
 # About Me
+🇬🇧 English | [🇪🇸 Español](#Sobre_mí)
 ### Junior Software Engineer | Data Analyst | DevOps
 
 - Software Developer / Data Analyst with experience in **process automation**, **systems integration**, and **database administration**.
@@ -80,6 +81,7 @@
 ---
 
 # Sobre mí
+[🇬🇧 English](#About_Me) | 🇪🇸 Español
 ### Junior Software Engineer | Data Analyst | DevOps
 
 
